@@ -1,1 +1,4 @@
 @import '@documenso/ui/styles/theme.css';
+.mt-8.flex.w-full.max-w-sm.items-center.justify-center.gap-4 button:first-child.inline-flex.items-center.justify-center.rounded-md.font-medium.transition-colors {
+    display: none;
+}
